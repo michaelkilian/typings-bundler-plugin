@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "lib",
+    "rootDir": "./",
+    "target": "es5",
+    "module": "commonjs",
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "declaration": true,
+    "declarationDir": "lib"
+  },
+  "exclude": [
+    "/node_modules/",
+    "tests"
+  ]
+}
