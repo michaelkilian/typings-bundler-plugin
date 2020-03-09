@@ -1,0 +1,27 @@
+{
+  "name": "typings-bundler-plugin",
+  "version": "1.0.0",
+  "main": "lib/src/TypingsBundlerPlugin.js",
+  "types": "lib/src/TypingsBundlerPlugin.d.ts",
+  "repository": "git@github.com:michaelkilian/typings-bundler-plugin.git",
+  "author": "Michael Kilian <michael.kilian2406@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^25.1.4",
+    "@types/node": "^13.9.0",
+    "jest": "^25.1.0",
+    "ts-jest": "^25.2.1",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.8.3"
+  },
+  "keywords": [
+    "typings",
+    "typings-bundler",
+    "declaration bundler",
+    "webpack",
+    "typescript",
+    "bundler",
+    "dts",
+    "declaration file"
+  ]
+}
